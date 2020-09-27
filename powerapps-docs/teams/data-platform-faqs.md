@@ -69,6 +69,8 @@ Applications can include data from environments that the maker has access to wit
 
 In addition to the table designer experience previously found in Common Data Service, Project Oakdale includes a new, easy-to-use editable grid that helps user be even more productive. You can also use tables from other environments subject to the normal permission model. The new visual editor is currently available only in Project Oakdale.
 
+### What countries are Project Oakdale available in?
+In public preview, Project Oakdale is available in all countries where Power Apps is available today except Germany, Lichtenstein, South Africa, South Korea, Switzerland, and the UAE.
 
 ### Can I use applications built using Project Oakdale Preview later in the generally available (GA) version of Project Oakdale?
 
